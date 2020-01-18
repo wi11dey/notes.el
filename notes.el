@@ -43,10 +43,6 @@
   ""
   :type 'function)
 
-(defcustom notes-set-buffer-name-function #'notes-set-buffer-name
-  ""
-  :type 'function)
-
 (defcustom notes-default-directory "~/"
   ""
   :type 'directory)
