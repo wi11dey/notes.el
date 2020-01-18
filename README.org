@@ -1,0 +1,4 @@
+#+title: notes.el
+#+author: Will Dey
+
+Generate and auto-title untitled buffers
